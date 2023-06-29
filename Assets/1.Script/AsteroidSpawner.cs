@@ -5,13 +5,13 @@ using UnityEngine;
 
 public class AsteroidSpawner : MonoBehaviour
 {
-    [Header("Size of the spawner area")]
+    [Header("운석 소환존 크기")]
     public Vector3 spawnerSize;
 
-    [Header("Rate of spawn")]
+    [Header("운석 소환 간격")]
     public float spawnRate = 1f;
 
-    [Header("Model to spawn")]
+    [Header("운석 종류")]
     [SerializeField]private GameObject asteroidModel;
 
     private float spawnTimer = 0f;
