@@ -19,6 +19,6 @@ public class Haptic : MonoBehaviour
     }
     private void SendHapticFeedback(ActivateEventArgs arg0)
     {
-        arg0.interactorObject.transform.GetComponent<XRBaseController>().SendHapticImpulse(1f, 2f);
+        arg0.interactorObject.transform.GetComponent<XRBaseController>().SendHapticImpulse(0.7f, 0.1f);
     }
 }
