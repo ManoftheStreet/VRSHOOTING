@@ -79,6 +79,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   asteroidExplosion: {fileID: 5587333519594629070, guid: c34c359c899647148a75c1c18db29282,
     type: 3}
+  gameController: {fileID: 0}
+  popupCanvas: {fileID: 3706144378203063900, guid: 155c30a1bf1d7a14699183173466c35e,
+    type: 3}
 --- !u!1001 &2996188979316244303
 PrefabInstance:
   m_ObjectHideFlags: 0
