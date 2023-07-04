@@ -17326,7 +17326,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1666297221}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.17, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -18206,7 +18206,7 @@ MonoBehaviour:
   scoreText: {fileID: 2047314822}
   gameoverScreen: {fileID: 413196067}
   highScoreText: {fileID: 1298410997}
-  audioSource: {fileID: 0}
+  audioSource: {fileID: 543923147}
   audioClips:
   - {fileID: 8300000, guid: ed91130881433ee47887375c9a0be47c, type: 3}
   - {fileID: 8300000, guid: a742e096b32877345a42b4c2e71f31cf, type: 3}
